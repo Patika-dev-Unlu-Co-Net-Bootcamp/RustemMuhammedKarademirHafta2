@@ -996,9 +996,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruste\\source\\repos\\UnluCo.Egitim\\UnluCo.NetBootcamp.Odev2\\UnluCo.NetBootcamp.Odev1\\UnluCo.NetBootcamp.Odev1.csproj",
-      "projectName": "UnluCo.NetBootcamp.Odev1",
-      "projectPath": "C:\\Users\\ruste\\source\\repos\\UnluCo.Egitim\\UnluCo.NetBootcamp.Odev2\\UnluCo.NetBootcamp.Odev1\\UnluCo.NetBootcamp.Odev1.csproj",
+      "projectUniqueName": "C:\\Users\\ruste\\source\\repos\\UnluCo.Egitim\\UnluCo.NetBootcamp.Odev2\\UnluCo.NetBootcamp.Odev1\\UnluCo.NetBootcamp.Odev2.csproj",
+      "projectName": "UnluCo.NetBootcamp.Odev2",
+      "projectPath": "C:\\Users\\ruste\\source\\repos\\UnluCo.Egitim\\UnluCo.NetBootcamp.Odev2\\UnluCo.NetBootcamp.Odev1\\UnluCo.NetBootcamp.Odev2.csproj",
       "packagesPath": "C:\\Users\\ruste\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ruste\\source\\repos\\UnluCo.Egitim\\UnluCo.NetBootcamp.Odev2\\UnluCo.NetBootcamp.Odev1\\obj\\",
       "projectStyle": "PackageReference",

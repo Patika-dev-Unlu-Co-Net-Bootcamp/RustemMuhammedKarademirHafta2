@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NtF2O7ECtB1hHPmKLEuHFdZG3wWbvgUKRuzXV4XMzZ1k+Isf2zQi72mte++BmeuzQbSzrbtR3q7lA5fJKe7kjg==",
+  "dgSpecHash": "OqzB50zxewx2flNj1ETVSzwJ6uYujmvdNQ3tP29MFlioWvMjuGpH9IYXIv4aNNMf4WAvhScF50DZzt02BD3hjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ruste\\source\\repos\\UnluCo.Egitim\\UnluCo.NetBootcamp.Odev2\\UnluCo.NetBootcamp.Odev1\\UnluCo.NetBootcamp.Odev1.csproj",
+  "projectFilePath": "C:\\Users\\ruste\\source\\repos\\UnluCo.Egitim\\UnluCo.NetBootcamp.Odev2\\UnluCo.NetBootcamp.Odev1\\UnluCo.NetBootcamp.Odev2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruste\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\ruste\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
