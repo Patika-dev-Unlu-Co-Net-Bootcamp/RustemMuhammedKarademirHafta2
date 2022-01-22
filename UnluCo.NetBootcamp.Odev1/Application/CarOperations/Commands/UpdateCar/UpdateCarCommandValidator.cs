@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace UnluCo.NetBootcamp.Odev1.Application.CarOperations.Commands.UpdateCar
+namespace UnluCo.NetBootcamp.Odev2.Application.CarOperations.Commands.UpdateCar
 {
     public class UpdateCarCommandValidator : AbstractValidator<UpdateCarCommand>
     {

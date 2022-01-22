@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
-using UnluCo.NetBootcamp.Odev1.DBOperations;
-using UnluCo.NetBootcamp.Odev1.Services;
+using UnluCo.NetBootcamp.Odev2.DBOperations;
+using UnluCo.NetBootcamp.Odev2.Services;
 
-namespace UnluCo.NetBootcamp.Odev1.BrandOperations.UpdateBrand
+namespace UnluCo.NetBootcamp.Odev2.BrandOperations.UpdateBrand
 {
     public class UpdateBrandCommand
     {

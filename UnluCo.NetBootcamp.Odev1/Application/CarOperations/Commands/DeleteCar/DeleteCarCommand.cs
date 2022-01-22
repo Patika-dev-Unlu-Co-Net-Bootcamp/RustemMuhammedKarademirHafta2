@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using UnluCo.NetBootcamp.Odev1.DBOperations;
+using UnluCo.NetBootcamp.Odev2.DBOperations;
 
-namespace UnluCo.NetBootcamp.Odev1.Application.CarOperations.Commands.DeleteCar
+namespace UnluCo.NetBootcamp.Odev2.Application.CarOperations.Commands.DeleteCar
 {
     public class DeleteCarCommand
     {

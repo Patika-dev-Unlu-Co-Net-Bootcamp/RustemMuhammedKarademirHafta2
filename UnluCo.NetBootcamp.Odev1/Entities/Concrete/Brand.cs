@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace UnluCo.NetBootcamp.Odev1.Entities.Concrete
+namespace UnluCo.NetBootcamp.Odev2.Entities.Concrete
 {
     public class Brand
     {

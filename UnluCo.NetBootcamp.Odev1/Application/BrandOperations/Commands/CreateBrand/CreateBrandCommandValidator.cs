@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace UnluCo.NetBootcamp.Odev1.BrandOperations.CreateBrand
+namespace UnluCo.NetBootcamp.Odev2.BrandOperations.CreateBrand
 {
     public class CreateBrandCommandValidator : AbstractValidator<CreateBrandCommand>
     {

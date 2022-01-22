@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace UnluCo.NetBootcamp.Odev1
+namespace UnluCo.NetBootcamp.Odev2
 {
     public static class BrandNameExtensions
     {

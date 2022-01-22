@@ -7,9 +7,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using UnluCo.NetBootcamp.Odev1.DBOperations;
+using UnluCo.NetBootcamp.Odev2.DBOperations;
 
-namespace UnluCo.NetBootcamp.Odev1
+namespace UnluCo.NetBootcamp.Odev2
 {
     public class Program
     {

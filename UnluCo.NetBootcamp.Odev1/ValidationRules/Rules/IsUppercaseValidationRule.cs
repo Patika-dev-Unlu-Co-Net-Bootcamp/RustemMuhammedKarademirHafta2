@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace UnluCo.NetBootcamp.Odev1.ValidationRules.Rules
+namespace UnluCo.NetBootcamp.Odev2.ValidationRules.Rules
 {
     public class IsUppercaseValidationRule : IValidationRule
     {

@@ -6,18 +6,18 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using UnluCo.NetBootcamp.Odev1.BrandOperations.CreateBrand;
-using UnluCo.NetBootcamp.Odev1.BrandOperations.DeleteBrand;
-using UnluCo.NetBootcamp.Odev1.BrandOperations.GetBrandById;
-using UnluCo.NetBootcamp.Odev1.BrandOperations.GetBrands;
-using UnluCo.NetBootcamp.Odev1.BrandOperations.UpdateBrand;
-using UnluCo.NetBootcamp.Odev1.DBOperations;
-using UnluCo.NetBootcamp.Odev1.Entities.Concrete;
-using UnluCo.NetBootcamp.Odev1.Services;
-using static UnluCo.NetBootcamp.Odev1.BrandOperations.CreateBrand.CreateBrandCommand;
-using static UnluCo.NetBootcamp.Odev1.BrandOperations.UpdateBrand.UpdateBrandCommand;
+using UnluCo.NetBootcamp.Odev2.BrandOperations.CreateBrand;
+using UnluCo.NetBootcamp.Odev2.BrandOperations.DeleteBrand;
+using UnluCo.NetBootcamp.Odev2.BrandOperations.GetBrandById;
+using UnluCo.NetBootcamp.Odev2.BrandOperations.GetBrands;
+using UnluCo.NetBootcamp.Odev2.BrandOperations.UpdateBrand;
+using UnluCo.NetBootcamp.Odev2.DBOperations;
+using UnluCo.NetBootcamp.Odev2.Entities.Concrete;
+using UnluCo.NetBootcamp.Odev2.Services;
+using static UnluCo.NetBootcamp.Odev2.BrandOperations.CreateBrand.CreateBrandCommand;
+using static UnluCo.NetBootcamp.Odev2.BrandOperations.UpdateBrand.UpdateBrandCommand;
 
-namespace UnluCo.NetBootcamp.Odev1.Controllers
+namespace UnluCo.NetBootcamp.Odev2.Controllers
 {
     [Route("api/[controller]s")]
     [ApiController]

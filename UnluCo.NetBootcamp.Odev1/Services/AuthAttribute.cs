@@ -5,10 +5,10 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
-using UnluCo.NetBootcamp.Odev1.ValidationRules;
-using UnluCo.NetBootcamp.Odev1.ValidationRules.Rules;
+using UnluCo.NetBootcamp.Odev2.ValidationRules;
+using UnluCo.NetBootcamp.Odev2.ValidationRules.Rules;
 
-namespace UnluCo.NetBootcamp.Odev1.Services
+namespace UnluCo.NetBootcamp.Odev2.Services
 {
     public class AuthAttribute : ValidationAttribute
     {

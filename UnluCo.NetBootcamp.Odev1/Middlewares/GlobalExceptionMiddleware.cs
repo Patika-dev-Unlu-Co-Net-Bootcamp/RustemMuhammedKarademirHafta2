@@ -7,9 +7,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
-using UnluCo.NetBootcamp.Odev1.Services;
+using UnluCo.NetBootcamp.Odev2.Services;
 
-namespace UnluCo.NetBootcamp.Odev1.Middlewares
+namespace UnluCo.NetBootcamp.Odev2.Middlewares
 {
     public class GlobalExceptionMiddleware
     {

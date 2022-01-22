@@ -3,15 +3,15 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using UnluCo.NetBootcamp.Odev1.Application.CarOperations.Queries.GetCarById;
-using UnluCo.NetBootcamp.Odev1.Application.CarOperations.Queries.GetCars;
-using UnluCo.NetBootcamp.Odev1.BrandOperations.GetBrandById;
-using UnluCo.NetBootcamp.Odev1.BrandOperations.GetBrands;
-using UnluCo.NetBootcamp.Odev1.Entities.Concrete;
-using static UnluCo.NetBootcamp.Odev1.Application.CarOperations.Commands.CreateCar.CreateCarCommand;
-using static UnluCo.NetBootcamp.Odev1.BrandOperations.CreateBrand.CreateBrandCommand;
+using UnluCo.NetBootcamp.Odev2.Application.CarOperations.Queries.GetCarById;
+using UnluCo.NetBootcamp.Odev2.Application.CarOperations.Queries.GetCars;
+using UnluCo.NetBootcamp.Odev2.BrandOperations.GetBrandById;
+using UnluCo.NetBootcamp.Odev2.BrandOperations.GetBrands;
+using UnluCo.NetBootcamp.Odev2.Entities.Concrete;
+using static UnluCo.NetBootcamp.Odev2.Application.CarOperations.Commands.CreateCar.CreateCarCommand;
+using static UnluCo.NetBootcamp.Odev2.BrandOperations.CreateBrand.CreateBrandCommand;
 
-namespace UnluCo.NetBootcamp.Odev1
+namespace UnluCo.NetBootcamp.Odev2
 {
     public class MappingProfile : Profile
     {

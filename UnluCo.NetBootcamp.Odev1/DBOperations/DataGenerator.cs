@@ -4,9 +4,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using UnluCo.NetBootcamp.Odev1.Entities.Concrete;
+using UnluCo.NetBootcamp.Odev2.Entities.Concrete;
 
-namespace UnluCo.NetBootcamp.Odev1.DBOperations
+namespace UnluCo.NetBootcamp.Odev2.DBOperations
 {
     public class DataGenerator
     {
